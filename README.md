@@ -67,8 +67,8 @@ If you're using Bootstrap: the rows and columns of the grid must be wrapped in a
 `img/` for images
 `js/` for JavaScript files
 
-##Code Quality
-###HTML Formatting rules
+## Code Quality
+### HTML Formatting rules
 
 * All code ( HTML element names, attributes, attribute values) is lowercase (except text/CDATA).
 * Code does not have trailing white spaces.
