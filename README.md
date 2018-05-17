@@ -1,6 +1,4 @@
 # Udacity_projectOnePortfolioSite
-## CRITERIA
-## MEETS SPECIFICATIONS
 
 ### Required Elements
 ### The page at minimum includes all of the following:
@@ -19,26 +17,22 @@ etc. are used to add meaning to the code.
 
 
 ### Custom Design
-
 ### Provide at least one of the following customizations:
 
 * Customize images and text.
 * Customize placement of the elements on the page (grid layout) with HTML, CSS or both.
 * Customize CSS styles applied at minimum to paragraph and heading elements.
 
-###G rid-Based Layout
+
+### Grid-Based Layout
 
 * Page utilizes a grid-based layout with styles making use of the flexbox layout or a framework like Bootstrap, Foundation, etc.
 If you're using Bootstrap: the rows and columns of the grid must be wrapped in an element with a container class.
 
 ## Responsiveness
-
-### CRITERIA
-### MEETS SPECIFICATIONS
 ## Cross-Device Compatibility
 
-### All content is responsive and displays on all display sizes. This includes:
-
+* All content is responsive and displays on all display sizes. This includes:
 * Desktop
 * Mobile: Google Nexus 5
 * Tablet: Apple iPad
@@ -58,9 +52,8 @@ If you're using Bootstrap: the rows and columns of the grid must be wrapped in a
 
 * If a CSS framework is used, classes provided by the CSS framework are used to make images responsive, otherwise media-queries are used to ensure responsiveness of images.
 
+
 ## Separation of Concerns
-### CRITERIA
-### MEETS SPECIFICATIONS
 ### Styles Separated From HTML
 
 * Portfolio completely separates structure (HTML) from design/style (CSS). There are no style attributes present in the body of the HTML document. There are no `<style> `elements in the document.
@@ -75,9 +68,6 @@ If you're using Bootstrap: the rows and columns of the grid must be wrapped in a
 `js/` for JavaScript files
 
 ##Code Quality
-
-###CRITERIA
-###MEETS SPECIFICATIONS
 ###HTML Formatting rules
 
 * All code ( HTML element names, attributes, attribute values) is lowercase (except text/CDATA).
